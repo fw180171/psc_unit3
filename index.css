@@ -1,0 +1,45 @@
+
+
+ h1{
+    text-align: center;
+    font-size: 30px;
+    color:orangered;
+}
+button{
+    width: 20%;
+    height: 30px;
+    background-color: antiquewhite;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+#nav{
+    width: 99%;
+    height: 50px;
+    border:1px solid black;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+#student{
+    width: 250px;
+    height: auto;
+    border: 1px solid greenyellow;
+    margin: auto;
+
+}
+ #student>input{
+    margin-left: 20px;
+
+} 
+#student>p{
+    margin-left: 10px;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+#sub{
+    margin-top: 10px;
+    margin-left: 25px;
+    
+  
+}
